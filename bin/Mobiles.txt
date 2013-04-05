@@ -1,0 +1,56 @@
+lg optimus 4x
+touchscreen
+Android OS, v4.0 (Ice Cream Sandwich)
+Quad-core 1.5 GHz Cortex-A9
+8 MP, 3264x2448 pixels, autofocus, LED flash
+720 x 1280 pixels, 4.7 inches (~312 ppi pixel density)
+16 GB storage (12 GB user available), 1 GB RAM
+34000
+samsung galaxy s advance
+touchscreen
+Android OS, v2.3.6 (Gingerbread), upgradable to v4.1
+Dual-core 1 GHz Cortex-A9
+5 MP, 2592 x 1944 pixels, autofocus, LED flash
+480 x 800 pixels, 4.0 inches (~233 ppi pixel density)
+8/16 GB storage, 768 MB RAM, 2 GB ROM
+19700
+sony xperia s
+touchscreen
+Android OS, v2.3 (Gingerbread), v4.0.4, planned upgrade to v4.1
+Dual-core 1.5 GHz
+12 MP, 4000x3000 pixels, autofocus, LED flash
+720 x 1280 pixels, 4.3 inches (~342 ppi pixel density)
+32 GB storage, 1 GB RAM
+30000
+samsung galaxy s3
+touchscreen
+Android OS, v4.0.4 (Ice Cream Sandwich), upgradeable to 4.1.2 (Jelly Bean)
+Quad-core 1.4 GHz Cortex-A9
+8 MP, 3264x2448 pixels, autofocus, LED flash
+720 x 1280 pixels, 4.8 inches (~306 ppi pixel density)
+16/32/64 GB storage, 1 GB RAM
+34000
+sony xperia sola
+touchscreen
+Android OS, v2.3 (Gingerbread), upgradable to v4.0
+Dual-core 1 GHz Cortex-A9
+5 MP, 2592?1944 pixels, autofocus, LED flash
+480 x 854 pixels, 3.7 inches (~265 ppi pixel density)
+8 GB (5 GB user available), 512 MB RAM
+28000
+samsung galaxy s2
+touchscreen
+Android OS, v2.3.4 (Gingerbread), v4.0.4, upgradable to v4.1
+Dual-core 1.2 GHz Cortex-A9
+8 MP, 3264x2448 pixels, autofocus, LED flash
+480 x 800 pixels, 4.3 inches (~217 ppi pixel density)
+16GB/32GB storage, 1 GB RAM
+25000
+sony xperia ray
+touchscreen
+Android OS, v2.3 (Gingerbread), upgradable to v4.0.4
+1 GHz Scorpion
+8 MP, 3264x2448 pixels, autofocus, LED flash
+480 x 854 pixels, 3.3 inches (~297 ppi pixel density)
+1 GB (300 MB user available), 512 MB RAM
+15700
