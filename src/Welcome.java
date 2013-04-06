@@ -39,7 +39,6 @@ public class Welcome extends Applet implements ActionListener
 
 	public void paint(Graphics g) 
 	{
-		
 		bg = new MediaTracker(this);
 		img = getImage(getCodeBase(), "bg.jpg");
 		bg.addImage(img,0);

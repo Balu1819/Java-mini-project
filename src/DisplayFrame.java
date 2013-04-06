@@ -36,7 +36,7 @@ public class DisplayFrame implements ActionListener
     	public void actionPerformed(ActionEvent e) {
     		JFrame frame = new JFrame ("Displaying Records");
     		frame.setDefaultCloseOperation (JFrame.HIDE_ON_CLOSE);
-    		frame.getContentPane().add(new DisplayLikeIWant());
+    		frame.getContentPane().add(new DisplayTree());
     		frame.pack();
     		frame.setVisible(true);
     	  }	
