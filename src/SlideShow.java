@@ -1,7 +1,3 @@
-//Simple Image Slide show using JButton
-//by: http://java-program-sample.blogspot.com
-//File: imageSlideShowJbutton.java
-
 //Java Extension Packages
 import javax.swing.*;
 //Java Core Packages
