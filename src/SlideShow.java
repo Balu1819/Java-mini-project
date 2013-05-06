@@ -116,6 +116,6 @@ public class SlideShow extends JFrame
 
 	public static void main(String[] args) 
 	{
-	SlideShow issjb = new SlideShow("lg_4x");
+	SlideShow object = new SlideShow("lg_4x");
 	}
 }
