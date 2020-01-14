@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 abcdef
 12345678
+=======
+>>>>>>> parent of c698ec9... file edited
