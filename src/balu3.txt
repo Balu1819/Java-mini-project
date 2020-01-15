@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 abcdef
 12345678
+edited in HUB
 =======
 >>>>>>> parent of c698ec9... file edited
