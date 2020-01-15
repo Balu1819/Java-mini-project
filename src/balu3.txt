@@ -2,5 +2,6 @@
 abcdef
 12345678
 edited in HUB
+edited in local branch
 =======
 >>>>>>> parent of c698ec9... file edited
